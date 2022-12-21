@@ -1,6 +1,13 @@
 
+<<<<<<< HEAD
 wwww+1
 
+=======
+
+
+
+===12213123
+>>>>>>> just-switching-by-id
 
 
 Chapter 1
